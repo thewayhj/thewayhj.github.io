@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="568da80a-4491-4281-abce-08f957e448fb" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/_site/2012/09/12/first-post.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/2012/09/12/first-post.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/2013/09/12/second-post.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/2013/09/12/second-post.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/2014/09/12/third-post.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/2014/09/12/third-post.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/2015/09/12/fourth-post.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/2015/09/12/fourth-post.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/2018/01/12/elements.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/2018/01/12/elements.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/404.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/404.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/blog.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/blog.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/jekyll-theme-prologue.gemspec" beforeDir="false" afterPath="$PROJECT_DIR$/_site/jekyll-theme-prologue.gemspec" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/reading-list.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/reading-list.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="ProjectId" id="23lZbIe9vYuYEcD33rDQTQBHVGK" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RebelAgentSelection">
+    <selection>jr</selection>
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration>$USER_HOME$/.subversion</configuration>
+    <option name="CHECK_NESTED_FOR_QUICK_MERGE" value="true" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="568da80a-4491-4281-abce-08f957e448fb" name="Default Changelist" comment="" />
+      <created>1642310783160</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1642310783160</updated>
+      <workItem from="1642310792650" duration="870000" />
+      <workItem from="1642311868857" duration="843000" />
+      <workItem from="1642313073791" duration="732000" />
+      <workItem from="1642313985478" duration="1306000" />
+      <workItem from="1642315570236" duration="4327000" />
+    </task>
+    <task id="LOCAL-00001" summary="gitignore 설정.">
+      <created>1642313461965</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1642313461965</updated>
+    </task>
+    <task id="LOCAL-00002" summary="gitignore 설정.">
+      <created>1642314341572</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1642314341572</updated>
+    </task>
+    <task id="LOCAL-00003" summary="gitbub.io setting file add.">
+      <created>1642319346035</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1642319346035</updated>
+    </task>
+    <task id="LOCAL-00004" summary=".gemspec add dependency bundler&#10;&#10;(Dependabot can't update vulnerable dependencies without a lockfile.)">
+      <created>1642319540126</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1642319540126</updated>
+    </task>
+    <task id="LOCAL-00005" summary=".gemspec modify dependency bundler&#10;&#10;(Dependabot can't update vulnerable dependencies without a lockfile.)">
+      <created>1642319729575</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1642319729575</updated>
+    </task>
+    <task id="LOCAL-00006" summary=".gemspec modify dependency bundler&#10;&#10;(Dependabot can't update vulnerable dependencies without a lockfile.)">
+      <created>1642320297839</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1642320297839</updated>
+    </task>
+    <task id="LOCAL-00007" summary=".gemspec modify dependency bundler&#10;&#10;(Dependabot can't update vulnerable dependencies without a lockfile.)">
+      <created>1642320774392</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1642320774392</updated>
+    </task>
+    <task id="LOCAL-00008" summary="modify config.yml contents">
+      <created>1642321413091</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1642321413091</updated>
+    </task>
+    <task id="LOCAL-00009" summary="modify config.yml contents">
+      <created>1642321486139</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1642321486139</updated>
+    </task>
+    <task id="LOCAL-00010" summary="modify config.yml contents">
+      <created>1642321639463</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1642321639463</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="gitignore 설정." />
+    <MESSAGE value="gitbub.io setting file add." />
+    <MESSAGE value=".gemspec add dependency bundler&#10;&#10;(Dependabot can't update vulnerable dependencies without a lockfile.)" />
+    <MESSAGE value=".gemspec modify dependency bundler&#10;&#10;(Dependabot can't update vulnerable dependencies without a lockfile.)" />
+    <MESSAGE value="modify config.yml contents" />
+    <option name="LAST_COMMIT_MESSAGE" value="modify config.yml contents" />
+  </component>
+</project>
