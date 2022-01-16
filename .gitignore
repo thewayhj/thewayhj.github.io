@@ -6,3 +6,7 @@
 # Editor-based HTTP Client requests
 /httpRequests/
 .idea/
+/_site
+*.gem
+.sass-cache
+Gemfile.lock
