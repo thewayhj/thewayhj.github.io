@@ -2,17 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="568da80a-4491-4281-abce-08f957e448fb" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/_site/2012/09/12/first-post.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/2012/09/12/first-post.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/2013/09/12/second-post.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/2013/09/12/second-post.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/2014/09/12/third-post.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/2014/09/12/third-post.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/2015/09/12/fourth-post.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/2015/09/12/fourth-post.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/2018/01/12/elements.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/2018/01/12/elements.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/404.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/404.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/blog.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/blog.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/jekyll-theme-prologue.gemspec" beforeDir="false" afterPath="$PROJECT_DIR$/_site/jekyll-theme-prologue.gemspec" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/reading-list.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/reading-list.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -112,7 +102,7 @@
       <workItem from="1642311868857" duration="843000" />
       <workItem from="1642313073791" duration="732000" />
       <workItem from="1642313985478" duration="1306000" />
-      <workItem from="1642315570236" duration="4327000" />
+      <workItem from="1642315570236" duration="4577000" />
     </task>
     <task id="LOCAL-00001" summary="gitignore 설정.">
       <created>1642313461965</created>
@@ -184,7 +174,21 @@
       <option name="project" value="LOCAL" />
       <updated>1642321639463</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="modify html contents">
+      <created>1642322128230</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1642322128230</updated>
+    </task>
+    <task id="LOCAL-00012" summary="modify gitignore">
+      <created>1642322257105</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1642322257105</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -196,6 +200,8 @@
     <MESSAGE value=".gemspec add dependency bundler&#10;&#10;(Dependabot can't update vulnerable dependencies without a lockfile.)" />
     <MESSAGE value=".gemspec modify dependency bundler&#10;&#10;(Dependabot can't update vulnerable dependencies without a lockfile.)" />
     <MESSAGE value="modify config.yml contents" />
-    <option name="LAST_COMMIT_MESSAGE" value="modify config.yml contents" />
+    <MESSAGE value="modify html contents" />
+    <MESSAGE value="modify gitignore" />
+    <option name="LAST_COMMIT_MESSAGE" value="modify gitignore" />
   </component>
 </project>
