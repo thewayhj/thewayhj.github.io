@@ -65,7 +65,7 @@ PLATFORMS
 
 DEPENDENCIES
   bundler (~> 1.12)
-  jekyll (~> 3.3)
+  jekyll (~> 3.6)
   jekyll-theme-prologue!
   kramdown-parser-gfm
 
