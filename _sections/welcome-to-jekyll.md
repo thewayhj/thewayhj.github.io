@@ -1,5 +1,5 @@
 ---
-title: Welcome to Jekyll!
+title: heejoong's Blog
 icon: fa-check
 order: 5
 ---
