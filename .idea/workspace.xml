@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="568da80a-4491-4281-abce-08f957e448fb" name="Default Changelist" comment="" />
+    <list default="true" id="568da80a-4491-4281-abce-08f957e448fb" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gemfile" beforeDir="false" afterPath="$PROJECT_DIR$/Gemfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/jekyll-theme-prologue.gemspec" beforeDir="false" afterPath="$PROJECT_DIR$/_site/jekyll-theme-prologue.gemspec" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jekyll-theme-prologue.gemspec" beforeDir="false" afterPath="$PROJECT_DIR$/jekyll-theme-prologue.gemspec" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -221,7 +226,14 @@
       <option name="project" value="LOCAL" />
       <updated>1642323395959</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="modify add_development_dependency">
+      <created>1642325153987</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1642325153987</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -237,6 +249,7 @@
     <MESSAGE value="modify gitignore" />
     <MESSAGE value="modify Gemfile / Gemfile.lock" />
     <MESSAGE value="modify config.yml" />
-    <option name="LAST_COMMIT_MESSAGE" value="modify config.yml" />
+    <MESSAGE value="modify add_development_dependency" />
+    <option name="LAST_COMMIT_MESSAGE" value="modify add_development_dependency" />
   </component>
 </project>
